@@ -2,8 +2,8 @@
 
 ## About me
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Marvridan)
-[![Twitch](https://img.shields.io/badge/-Twitch-FF0000?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/marvridan)
-[![Portfolio](https://img.shields.io/badge/-googledocs-FF0000?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1yodP7zqpN8dHQlhuphXPerkHwo2EhprX?usp=drive_link)
+[![Twitch](https://img.shields.io/badge/-Twitch-b549e3?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/marvridan)
+[![Portfolio](https://img.shields.io/badge/-googledocs-1bb327?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1yodP7zqpN8dHQlhuphXPerkHwo2EhprX?usp=drive_link)
 
 I'm only started making plugins and other. I'm bad at plugins but good at building.
 
