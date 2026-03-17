@@ -8,7 +8,7 @@
 I'm only started making plugins and other. I'm bad at plugins but good at building.
 
 <details align="left">
-  <summary><h2><b>📚</b></h2></summary>
+  <summary><h2><b>📚 The all i using:</b></h2></summary>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=cs,py,lua&perline=3" />
